@@ -1,0 +1,19 @@
+:root {
+  --primary: #8aa237;
+}
+
+i {
+  color: var(--primary);
+}
+
+h1 span {
+  color: var(--primary);
+}
+
+.container button {
+  background-color: var(--primary);
+}
+
+h5 {
+  color: var(--primary);
+}
